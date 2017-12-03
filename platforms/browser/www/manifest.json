@@ -1,0 +1,10 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "FEELHUNGRY",
+  "short_name": "FEELHUNGRY",
+  "version": "com.feelhungry.app",
+  "description": "FEELHUNGRY",
+  "icons": [],
+  "start_url": "index.html"
+}
