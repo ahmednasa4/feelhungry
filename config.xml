@@ -12,6 +12,7 @@
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="SplashScreen" value="splash.png" />
     <preference name="SplashMaintainAspectRatio" value="true" />
+    <splash src="splash.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
