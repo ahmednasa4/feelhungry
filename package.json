@@ -1,0 +1,25 @@
+{
+  "name": "com.feelhungry.app",
+  "version": "1.0.0",
+  "displayName": "FEELHUNGRY",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-network-information": {},
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-file": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-splashscreen": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "~6.3.0",
+    "cordova-plugin-network-information": "^1.3.3",
+    "cordova-plugin-whitelist": "1",
+    "cordova-plugin-file": "~5.0.0",
+    "cordova-plugin-geolocation": "~3.0.0",
+    "cordova-plugin-splashscreen": "~4.1.0"
+  }
+}
